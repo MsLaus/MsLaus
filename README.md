@@ -1,4 +1,4 @@
-I am Laura, a 21 y/o software developer. 
+I am Laura, a 21 y/o java developer. 
 -----------------------------------
 
 ![happy-happy-happy-happy](https://github.com/MsLaus/MsLaus/assets/130174184/e1a21eab-2b4f-4975-beb6-8a21e9dd8d8a)  Something about me...
