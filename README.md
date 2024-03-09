@@ -10,7 +10,8 @@ I am Laura, a 21 y/o java developer.
 				
            HashMap<String, String[]> aboutMe = new HashMap<>();
            aboutMe.put("Education", new String[]{"Student at University of Financial Management", "Java Bootcamp"});
-           aboutMe.put("Skills", new String[]{"Java", "Maven", "PostgreSQL", "HTML", "CSS"});
+           aboutMe.put("Skills", new String[]{"Java", "MySQL", "PostgreSQL", "HTML", "CSS", "Linux"});
+	       aboutMe.put("Frameworks", new String[]{"Apache Maven", "JUnit", "Log4J/Logback"});
 
            String currenltyDoing = "I am participating as a student at the European Project callled Femme Forward and learn
 					 for the AWS Cloud Practitionar Certification.";
