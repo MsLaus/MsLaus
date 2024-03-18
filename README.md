@@ -10,11 +10,11 @@ I am Laura, a 21 y/o student.
 				
            HashMap<String, String[]> aboutMe = new HashMap<>();
            aboutMe.put("Education", new String[]{"Student at University of Financial Management", "Java Bootcamp"});
-           aboutMe.put("Skills", new String[]{"Java", "MySQL", "PostgreSQL", "HTML", "CSS", "Linux"});
-	       aboutMe.put("Frameworks", new String[]{"Apache Maven", "JUnit", "Log4J/Logback"});
+           aboutMe.put("Skills", new String[]{"Java", "MySQL", "PostgresSQL", "Apache Maven", "HTML", "CSS", "Linux"});
+	       aboutMe.put("Frameworks", new String[]{"JUnit", "Log4J/Logback"});
 
-           String currenltyDoing = "I am participating as a student at the European Project callled Femme Forward and learn
-					 for the AWS Cloud Practitionar Certification.";
+           String currentlyDoing = "I am participating as a student at the European Project called Femme Forward and learn
+					 for the AWS Cloud Practitioner Certification.";
            String futurePlans = "I am planning on getting the AWS Developer Certification. ";
         }
      }
